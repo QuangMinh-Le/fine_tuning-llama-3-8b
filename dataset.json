@@ -1,0 +1,11 @@
+[{
+   "instruction": "Based on the Pre-Advice Audit Checklist, identify any potential health considerations that may impact the clients' insurance applications.",
+   "input": "Clients have advised that they are in good health. Ben does have some prior injuries that may impact his application.",
+   "output": "While both Ben and Claudia have advised they are in good health, the Pre-Advice Audit Checklist notes that Ben has some prior injuries which may impact his insurance application and potentially lead to exclusions or loadings on his premiums."
+ },
+ {
+   "instruction": "Based on the Pre-Advice Audit Checklist, identify any potential health considerations that may impact the clients' insurance applications.",
+   "input": "Clients have advised that they are in good health. Robert does have some prior injuries that may impact his application.",
+   "output": "While both Robert and Ruth have advised they are in good health, the Pre-Advice Audit Checklist notes that Robert has some prior injuries which may impact his insurance application and potentially lead to exclusions or loadings on his premiums."
+ }
+]
